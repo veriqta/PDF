@@ -7,19 +7,33 @@ This repository contains original study guides, engineering notebooks, cheat she
 Topics include:
 
 • DevOps
+
 • Cloud Computing
+
 • Linux Administration
+
 • Docker
+
 • Kubernetes
+
 • CI/CD Pipelines
+
 • Infrastructure as Code (Terraform & Ansible)
+
 • AWS and Cloud Services
+
 • Site Reliability Engineering (SRE)
+
 • Platform Engineering
+
 • Monitoring and Observability
+
 • Production Troubleshooting
+
 • Networking
+
 • Security Best Practices
+
 • Automation and Scripting
 
 Every resource is designed to simplify complex concepts into structured, practical learning that can be applied in real production environments. Rather than focusing only on theory, these materials emphasize hands-on knowledge, troubleshooting strategies, architectural thinking, and industry best practices.
