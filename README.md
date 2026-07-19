@@ -1,5 +1,3 @@
-VERIQTA Learning Library
-
 Welcome to the VERIQTA Learning Library, a growing collection of premium educational resources created to help engineers develop practical, production-ready skills.
 
 This repository contains original study guides, engineering notebooks, cheat sheets, troubleshooting playbooks, architecture references, visual learning materials, and technical PDFs covering modern infrastructure and software engineering.
